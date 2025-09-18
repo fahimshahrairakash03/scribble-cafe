@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Mastering React",
+    "cover": "https://www.shutterstock.com/image-photo/book-open-pages-close-up-600nw-2562942291.jpg",
+    "description": "A complete guide to learning React.js from scratch with real-world projects.",
+    "authorImg": "https://t4.ftcdn.net/jpg/02/32/16/11/360_F_232161181_HP9vaSVs2tk2G3o1jfVH5QG7BceWnlyu.jpg",
+    "authorName": "John Doe",
+    "status": "published",
+    "hashtag": ["#react", "#javascript", "#webdevelopment"]
+  },
+  {
+    "id": "2",
+    "name": "Mastering React",
+    "cover": "https://www.shutterstock.com/image-photo/book-open-pages-close-up-600nw-2562942291.jpg",
+    "description": "A complete guide to learning React.js from scratch with real-world projects.",
+    "authorImg": "https://t4.ftcdn.net/jpg/02/32/16/11/360_F_232161181_HP9vaSVs2tk2G3o1jfVH5QG7BceWnlyu.jpg",
+    "authorName": "John Doe",
+    "status": "published",
+    "hashtag": ["#react", "#javascript", "#webdevelopment"]
+  },
+  {
+    "id": "3",
+    "name": "Mastering React",
+    "cover": "https://www.shutterstock.com/image-photo/book-open-pages-close-up-600nw-2562942291.jpg",
+    "description": "A complete guide to learning React.js from scratch with real-world projects.",
+    "authorImg": "https://t4.ftcdn.net/jpg/02/32/16/11/360_F_232161181_HP9vaSVs2tk2G3o1jfVH5QG7BceWnlyu.jpg",
+    "authorName": "John Doe",
+    "status": "published",
+    "hashtag": ["#react", "#javascript", "#webdevelopment"]
+  },
+  {
+    "id": "4",
+    "name": "Mastering React",
+    "cover": "https://www.shutterstock.com/image-photo/book-open-pages-close-up-600nw-2562942291.jpg",
+    "description": "A complete guide to learning React.js from scratch with real-world projects.",
+    "authorImg": "https://t4.ftcdn.net/jpg/02/32/16/11/360_F_232161181_HP9vaSVs2tk2G3o1jfVH5QG7BceWnlyu.jpg",
+    "authorName": "John Doe",
+    "status": "published",
+    "hashtag": ["#react", "#javascript", "#webdevelopment"]
+  }
+]
