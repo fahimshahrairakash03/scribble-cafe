@@ -1,7 +1,7 @@
 import React from "react";
 import { CiBookmark } from "react-icons/ci";
 
-const BlogsDetails = ({ blog, handleBookmark }) => {
+const BlogsDetails = ({ blog, handleBookmark, handleMarkedAsRead }) => {
   const {
     id,
     name,
@@ -37,7 +37,12 @@ const BlogsDetails = ({ blog, handleBookmark }) => {
               {" "}
               <CiBookmark className="text-4xl"></CiBookmark>
             </button>
-            <button className="btn btn-primary">Mark as Read</button>
+            <button
+              onClick={() => handleMarkedAsRead(blog.id)}
+              className="btn btn-primary"
+            >
+              Mark as Read
+            </button>
           </div>
         </div>
       </div>
